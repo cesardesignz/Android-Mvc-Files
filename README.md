@@ -19,5 +19,10 @@
 
                Android Log:
                =================
-               
+               SamdroidMod With  ROM  Cyanogenmod 7.0 Gingerbread if Jailbreaked Only By: Jeremy Dupont (Starting SDK Test)
                Source + APK File  (error parsing kernel in Recovery Mode) 03/10/2012
+               Update Odin v4.03 Working, Thanks to Jeremy Dupont 
+               Recovery Mode (Not enter with Call Down + Camera + On/OFF) Command Offset Since 29/09/12
+               PDA PAckage "i5700_LK2-08_PDA" WORK ONLY WITH [Spica_2.1.ops] !IMPORTANT you can really damage your Kernel System
+               SamdroidMod With  ROM  Cyanogenmod 7.0 Gingerbread if Jailbreaked Only
+               
